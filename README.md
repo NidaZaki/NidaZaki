@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on software development projects that challenge me to leverage my skills in programming and problem-solving to create impactful solutions for users.<br>🤝 I’m looking for help with staying up-to-date with industry trends and best practices to continuously improve my skills and deliver best software solutions.<br>💬 Reach out to me on nidazaki97@gmail.com or add me on https://www.linkedin.com/in/nida-zaki-5141a6229/ 🙂<br>
+👯 I’m looking to collaborate on software development projects that challenge me to leverage my skills in programming and problem-solving to create impactful solutions for users.<br>🤝 I’m looking for help with staying up-to-date with industry trends and best practices to continuously improve my skills and deliver best software solutions.<br>💬 Reach out to me on <a href="nidazaki97@gmail.com">Email/a> or add me on <a href="https://www.linkedin.com/in/nida-zaki-5141a6229/">LinkedIn/a> 🙂<br>
 
 
 ## 🌐 Socials:
